@@ -1,0 +1,1 @@
+@py.exe C:\Users\PC\Documents\beginner_projects %*
